@@ -1,5 +1,6 @@
 # Rust Lang Sync Arc Deref Issue
-To Recreate the the experiment follow.
+Please clone with `--recurse-submodules`
+## To Recreate the the experiment follow.
 
 ```bash
 rustup default 1.82
